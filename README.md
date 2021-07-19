@@ -40,7 +40,7 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 
 ```bash
 # Clone this project
-$ git clone https://github.com/{{YOUR_GITHUB_USERNAME}}/wpu-contact-app-mongodb
+$ git clone https://github.com/dyanzzz/wpu-contact-app-mongodb
 
 # Access
 $ cd wpu-contact-app-mongodb
@@ -60,7 +60,7 @@ $ nodemon app
 
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
-Made with :heart: by <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">{{YOUR_NAME}}</a>
+Made with :heart: by <a href="https://github.com/dyanzzz" target="_blank">Dyan</a>
 
 &#xa0;
 
